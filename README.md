@@ -60,7 +60,7 @@
 ---
 
 ### 🔝 Top Contributed Repo
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=SATHVIKA-NELLUTLA&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=SATHVIKA-NELLUTLA&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
