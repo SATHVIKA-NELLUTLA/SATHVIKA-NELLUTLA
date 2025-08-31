@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on **Data Structures and Problem Solving Using Python**  
-🌱 I’m currently learning **Django, MERN**  
-🤔 I’m looking for help with **Full Stack Development**  
-📫 Reach me at: **sathvikanellutla22@gmail.com**
+🔭 I’m currently working on Data Structures and Problem Solving Using Python  
+🌱 I’m currently learning Django, MERN  
+🤔 I’m looking for help with Full Stack Development  
+📫 Reach me at: sathvikanellutla22@gmail.com
 
 ---
 
@@ -35,7 +35,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
 
-📊 **Data Science / ML Tools:**  
+📊 Data Science / ML Tools:  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
@@ -54,13 +54,13 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
 ### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=SATHVIKA-NELLUTLA&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=SATHVIKA-NELLUTLA&limit=5&theme=dark&cache_seconds=3600)
 
 ---
 
