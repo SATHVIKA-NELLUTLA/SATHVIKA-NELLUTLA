@@ -2,7 +2,7 @@
 🔭 I’m currently working on Data Structures and Problem Solving Using Python  
 🌱 I’m currently learning Django, MERN  
 🤔 I’m looking for help with Full Stack Development  
-📫 Reach me at: sathvikanellutla22@gmail.com
+📫 Reach me at: sathvikanellutla22@gmail.com  
 
 ---
 
@@ -59,8 +59,14 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SATHVIKA-NELLUTLA&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=false)
+### 📌 Featured Repositories  
+ 
+<!-- These are controlled by GitHub itself. Go to your profile > Customize profile > Pin repositories -->
+[![](https://github-readme-stats.vercel.app/api/pin/?username=SATHVIKA-NELLUTLA&repo=Movie_Recommendation_System&theme=dark)](https://github.com/SATHVIKA-NELLUTLA)  
+[![](https://github-readme-stats.vercel.app/api/pin/?username=SATHVIKA-NELLUTLA&repo=WeatherNow&theme=dark)](https://github.com/SATHVIKA-NELLUTLA)  
+[![](https://github-readme-stats.vercel.app/api/pin/?username=SATHVIKA-NELLUTLA&repo=Attendance-management-&theme=dark)](https://github.com/SATHVIKA-NELLUTLA)  
+[![](https://github-readme-stats.vercel.app/api/pin/?username=SATHVIKA-NELLUTLA&repo=Jewellery-Management-System&theme=dark)](https://github.com/SATHVIKA-NELLUTLA)  
+
 
 ---
 
