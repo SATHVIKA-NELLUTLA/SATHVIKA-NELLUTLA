@@ -59,8 +59,8 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=SATHVIKA-NELLUTLA&limit=5&theme=dark&cache_seconds=3600)
+### 🔝 Top Repositories
+![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=SATHVIKA-NELLUTLA&repo=your-repo-name&theme=dark)  
 
 ---
 
