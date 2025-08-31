@@ -62,7 +62,7 @@
 ### 📌 Featured Repositories  
  
 <!-- These are controlled by GitHub itself. Go to your profile > Customize profile > Pin repositories -->
-[![](https://github-readme-stats.vercel.app/api/pin/?username=SATHVIKA-NELLUTLA&repo=Movie_Recommendation_System&theme=dark)](https://github.com/SATHVIKA-NELLUTLA)  
+[![](https://github-readme-stats.vercel.app/api/pin/?username=SATHVIKA-NELLUTLA&repo=Movie_Recommendation_System&theme=dark)](https://github.com/SATHVIKA-NELLUTLA/Movie_Recommendation_System)  
 [![](https://github-readme-stats.vercel.app/api/pin/?username=SATHVIKA-NELLUTLA&repo=WeatherNow&theme=dark)](https://github.com/SATHVIKA-NELLUTLA)  
 [![](https://github-readme-stats.vercel.app/api/pin/?username=SATHVIKA-NELLUTLA&repo=Attendance-management-&theme=dark)](https://github.com/SATHVIKA-NELLUTLA)  
 [![](https://github-readme-stats.vercel.app/api/pin/?username=SATHVIKA-NELLUTLA&repo=Jewellery-Management-System&theme=dark)](https://github.com/SATHVIKA-NELLUTLA)  
